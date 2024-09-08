@@ -1,0 +1,98 @@
+LOCUS       AF395830                2979 bp    mRNA    linear   PRI 04-NOV-2001
+DEFINITION  Homo sapiens factor inhibiting HIF1 (FIH1) mRNA, complete cds.
+ACCESSION   AF395830
+VERSION     AF395830.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2979)
+  AUTHORS   Mahon,P.C., Hirota,K. and Semenza,G.L.
+  TITLE     FIH-1: a novel protein that interacts with HIF-1alpha and VHL to
+            mediate repression of HIF-1 transcriptional activity
+  JOURNAL   Genes Dev. 15 (20), 2675-2686 (2001)
+   PUBMED   11641274
+REFERENCE   2  (bases 1 to 2979)
+  AUTHORS   Mahon,P.C. and Semenza,G.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUN-2001) Institute of Genetic Medicine, The Johns
+            Hopkins University School of Medicine, 600 N. Wolfe St., CMSC-1004,
+            Baltimore, MD 21287-3914, USA
+FEATURES             Location/Qualifiers
+     source          1..2979
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="10"
+                     /map="10q24"
+                     /tissue_type="brain"
+     gene            1..2979
+                     /gene="FIH1"
+     CDS             11..1060
+                     /gene="FIH1"
+                     /note="co-repressor"
+                     /codon_start=1
+                     /product="factor inhibiting HIF1"
+                     /protein_id="AAL27308.1"
+                     /translation="MAATAAEAVASGSGEPREEAGALGPAWDESQLRSYSFPTRPIPR
+                     LSQSDPRAEELIENEEPVVLTDTNLVYPALKWDLEYLQENIGNGDFSVYSASTHKFLY
+                     YDEKKMANFQNFKPRSNREEMKFHEFVEKLQDIQQRGGEERLYLQQTLNDTVGRKIVM
+                     DFLGFNWNWINKQQGKRGWGQLTSNLLLIGMEGNVTPAHYDEQQNFFAQIKGYKRCIL
+                     FPPDQFECLYPYPVHHPCDRQSQVDFDNPDYERFPNFQNVVGYETVVGPGDVLYIPMY
+                     WWHHIESLLNGGITITVNFWYKGAPTPKRIEYPLKAHQKVAIMRNIEKMLGEALGNPQ
+                     EVGPLLNTMIKGRYN"
+ORIGIN      
+        1 ggcggcggag atggcggcga cagcggcgga ggctgtggcc tctggctctg gagagccccg
+       61 ggaggaggct ggagccctcg gccccgcctg ggatgaatcc cagttgcgca gttatagctt
+      121 cccgactagg cccattccgc gtctgagtca gagcgacccc cgggcagagg agcttattga
+      181 gaatgaggag cctgtggtgc tgaccgacac aaatcttgtg tatcctgccc tgaaatggga
+      241 ccttgaatac ctgcaagaga atattggcaa tggagacttc tctgtgtaca gtgccagcac
+      301 ccacaagttc ttgtactatg atgagaagaa gatggccaat ttccagaact ttaagccgag
+      361 gtccaacagg gaagaaatga aatttcatga gttcgttgag aaactgcagg atatacagca
+      421 gcgaggaggg gaagagaggt tgtatctgca gcaaacgctc aatgacactg tgggcaggaa
+      481 gattgtcatg gacttcttag gttttaactg gaactggatt aataagcaac agggaaagcg
+      541 tggctggggg cagcttacct ctaacctgct gctcattggc atggaaggaa atgtgacacc
+      601 tgctcactat gatgagcagc agaacttttt tgctcagata aaaggttaca aacgatgcat
+      661 cttattccct ccggatcagt tcgagtgcct ctacccatac cctgttcatc acccatgtga
+      721 cagacagagc caggtggact ttgacaatcc cgactacgag aggttcccta atttccaaaa
+      781 tgtggttggt tacgaaacag tggttggccc tggtgatgtt ctttacatcc caatgtactg
+      841 gtggcatcac atagagtcat tactaaatgg ggggattacc atcactgtga acttctggta
+      901 taagggggct cccaccccta agagaattga atatcctctc aaagctcatc agaaagtggc
+      961 cataatgaga aacattgaga agatgcttgg agaggccttg gggaacccac aagaggtggg
+     1021 gcccttgttg aacacaatga tcaagggccg atacaactag cctgccaggg gtcaaggcct
+     1081 cctgccaggt gactgctatc ccgtccacac cgcttcattg atgaggacag gagactccaa
+     1141 gcgctagtat tgcacgctgc acttaatgga ctggactctt gccatggccc aggagtcagg
+     1201 tgtttggagc gaggcagggc agttggcact ccactcctat ttggagggac ttcataccct
+     1261 tgcctcttgt gccccagcac cttctctctc tgccccccgc ctaaagtcct gcattcagtg
+     1321 tgtggagtcc cagcttttgg ttgtcatcat gtctgtgtgt atgttagtct gtcaacttcg
+     1381 gaatgtgtgc gtgtgtgtgc atgcacacgc atgtatgtat ctgttccctg ttccttctgg
+     1441 gtcaggctgt cacttccggc tctcagccct atctcctgca acctcagtgc ctcagcctga
+     1501 gagagagatg agatgctctt ggactcccca ctgcatctgg gctgcagggc cagagctagt
+     1561 ctgaccatta ggtcagtctg cctcctgaca gtttttgcgt agtcaagctc taggcggtat
+     1621 gggaatggct accgggactc taatggggtg aaagagaggg gaggcttgcc tttgagagcc
+     1681 tatatagcct tcctgtgaga gaggattaga tagggttcca actgggccta caagctcaag
+     1741 ccatacataa aaggaccttg ggacataaga accaatgatt gtgcataagt tctaaattag
+     1801 agacacatat agtttctctc tttcagcacc agctcttgcc cctatgctgg gtaccaaggg
+     1861 agttctccta gctgtggctt ctctaggttc taggggtgca agcctctgtg tgtttgtttg
+     1921 tgtgtgtctg tgtgtgcgta tccacactag gggtgcaagc ctctgggtgt gtgtgtgtgt
+     1981 gtgcgtgcgt gtgtgtgtgt gtgtccgtgt gtgtgtgtgt gtgtgtccac actggccagc
+     2041 ctccctactt accaaggttc tccactgctt accttttcca gtgggacagt acagtgtgag
+     2101 cccccgggaa gtactgcctg acctatccta agcttttaca cttggatttt agccatcata
+     2161 tgttggccag gtctcactgc agcctgcccg aggctaactg gctagagcct ccaggcccta
+     2221 tgatgctccc tgcccaggcc atatccttta ttcctgctga gcttcctggc tgaatagatg
+     2281 aaatggggtc aagcccaggc agctcattca ctacctgtga tccacctcag ggcacgggca
+     2341 aacacatagg cttgcgtctt aaagccagct cctctgccag accccgttgt aatgtgccac
+     2401 aacaccctca atagtcaggg caactggtgg agcatggaag tcgaatttcc ttttctgtta
+     2461 ggagctactc ctgggaaccc ctctcagggc tgcagcttac aggtgggcag ctgtgattgc
+     2521 acaacttgaa gggccatcat tcacatctat tcagtgggag tggggtccct gggattgggc
+     2581 agtgtggtgg ccctgtgtct cctcacctct gctcctgtct tcatcacctt ctctctggaa
+     2641 gggaagagga gttggaaggt ctctggtttt cttttctttt tttttttttt gccaaaggtt
+     2701 tacttccagc atctgagctc tggctctcac ccctgaagct cagttatagt gcactgatga
+     2761 actgagagga tgcgtgtgga tgtgtgtgca tgcctgagtg cgttttttgg ggaggggtgt
+     2821 ttatttttag taccccattc tggggttctc tgatgcagtg tggatgtgaa gatatggtac
+     2881 cttctcaagt gtagctcttt caaatatagt caatgctggg aaatgtgaaa aaaaaaaaaa
+     2941 aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaa
+//
+
