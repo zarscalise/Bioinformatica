@@ -1,2 +1,7 @@
 # Bioinformatica
 Trabajo práctico cuatrimestral grupal.
+
+## Ejercicio 1
+El archivo Ejercicio1.py contiene el script correspondiente a la lectura del archivo sequence.gb, su traducción a posibles secuencias de amino ácidos y su escritura en formato FASTA. Dentro de la carpeta ArchivosEj1 se encuentran los archivos resultantes para los seis marcos de lectura trabajados.
+
+## Ejercicio 2
