@@ -6,3 +6,6 @@ El archivo Ejercicio1.py contiene el script correspondiente a la lectura del arc
 
 ## Ejercicio 2
 El archivo Ejercicio2.py es un script que realiza un BLAST de una secuencia y escribe el resultado en un archivo.
+
+## Ejercicio 3
+
