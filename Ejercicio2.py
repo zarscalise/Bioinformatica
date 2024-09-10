@@ -30,7 +30,7 @@ def blast_remoto(fasta_file):
 def blast_local(input):
     registro = SeqIO.parse(input, "fasta")
     #entrada a mi ruta local de blast
-    db_path = "C:\Program Files\NCBI\blast-2.16.0+"
+    db_path = "C:\\Program Files\\NCBI\\blast-2.16.0+"
     
     for record in registro:
         secuencia = f"{record.id}.fasta" #archivo temporal, seq actual
