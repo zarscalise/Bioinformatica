@@ -13,5 +13,3 @@ El archivo Ejercicio2.py es un script que realiza un BLAST de una secuencia y es
 
 ## Ejercicio 5
 El archivo Ejercicio5.py es un primer intento. Hay que probarlo con los archivos del ej 1.
-
-## Ejercicio 6
