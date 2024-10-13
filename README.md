@@ -8,6 +8,7 @@ El archivo Ejercicio1.py contiene el script correspondiente a la lectura del arc
 El archivo Ejercicio2.py es un script que realiza un BLAST de una secuencia y escribe el resultado en un archivo.
 
 ## Ejercicio 3
+El archivo Ejercicio3.py es un script que lee el csv del ejercicio anterior y prepara las secuencias de manera tal que se pueda subir un nuevo archivo a Clustal Omega y obtener el alineamiento múltiple. 
 
 ## Ejercicio 4
 
