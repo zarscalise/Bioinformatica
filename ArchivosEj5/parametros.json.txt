@@ -1,0 +1,7 @@
+{
+    "min_length": 18,
+    "max_length": 24,
+    "min_gc": 50,
+    "max_gc": 60,
+    "max_tm": 67
+}
