@@ -13,4 +13,4 @@ El archivo Ejercicio3.py es un script que lee el csv del ejercicio anterior y pr
 ## Ejercicio 4
 
 ## Ejercicio 5
-El archivo Ejercicio5.py es un primer intento. Hay que probarlo con los archivos del ej 1.
+El archivo Ejercicio5.py es un primer intento. El archivo Ej5_nuevo.py es el ejercicio final. En la carpeta ArchivosEj5 esta el transcripto, los parametros que se solicitan para buscar los primers, y los primers obtenidos como resultado.
