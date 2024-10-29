@@ -1,0 +1,294 @@
+
+
+# Resultados para el ORF: >KR710372.1_1 Synthetic construct Homo sapiens clone CCSBHm_00011982 FHL1 (FHL1) mRNA, encodes complete protein
+########################################
+# Program: patmatmotifs
+# Rundate: Tue 29 Oct 2024 12:07:12
+# Commandline: patmatmotifs
+#    -sequence temp_orf.fasta
+#    -outfile temp_results.txt
+#    -full
+# Report_format: dbmotif
+# Report_file: temp_results.txt
+########################################
+
+#=======================================
+#
+# Sequence: KR710372.1_1     from: 1   to: 60
+# HitCount: 0
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: ./prosite/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------
+
+# Resultados para el ORF: >KR710372.1_2 Synthetic construct Homo sapiens clone CCSBHm_00011982 FHL1 (FHL1) mRNA, encodes complete protein
+########################################
+# Program: patmatmotifs
+# Rundate: Tue 29 Oct 2024 12:07:13
+# Commandline: patmatmotifs
+#    -sequence temp_orf.fasta
+#    -outfile temp_results.txt
+#    -full
+# Report_format: dbmotif
+# Report_file: temp_results.txt
+########################################
+
+#=======================================
+#
+# Sequence: KR710372.1_2     from: 1   to: 60
+# HitCount: 0
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: ./prosite/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------
+
+# Resultados para el ORF: >KR710372.1_3 Synthetic construct Homo sapiens clone CCSBHm_00011982 FHL1 (FHL1) mRNA, encodes complete protein
+########################################
+# Program: patmatmotifs
+# Rundate: Tue 29 Oct 2024 12:07:14
+# Commandline: patmatmotifs
+#    -sequence temp_orf.fasta
+#    -outfile temp_results.txt
+#    -full
+# Report_format: dbmotif
+# Report_file: temp_results.txt
+########################################
+
+#=======================================
+#
+# Sequence: KR710372.1_3     from: 1   to: 60
+# HitCount: 1
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: ./prosite/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 36 of sequence
+End = position 39 of sequence
+
+Motif = AMIDATION
+
+CRDPLQGKKYVQKD
+     |  |
+    36  39
+
+
+#---------------------------------------
+#
+# Motif: AMIDATION
+# Count: 1
+# 
+# ******************
+# * Amidation site *
+# ******************
+# 
+# The precursor of  hormones  and other active  peptides  which are C-terminally
+# amidated is always directly followed [1,2] by a glycine residue which provides
+# the amide group, and  most often by at  least two  consecutive  basic residues
+# (Arg or Lys) which generally function as an active peptide  precursor cleavage
+# site.  Although all amino acids can be amidated,  neutral hydrophobic residues
+# such as Val or Phe are good substrates, while  charged residues such as Asp or
+# Arg  are much less reactive.  C-terminal  amidation has not  yet been shown to
+# occur in unicellular organisms or in plants.
+# 
+# -Consensus pattern: x-G-[RK]-[RK]
+#                     [x is the amidation site]
+# -Last update: June 1988 / First entry.
+# 
+# [ 1] Kreil G.
+#      "Occurrence, detection, and biosynthesis of carboxy-terminal amides."
+#      Methods Enzymol. 106:218-223(1984).
+#      PubMed=6548541
+# [ 2] Bradbury A.F., Smyth D.G.
+#      "Biosynthesis of the C-terminal amide in peptide hormones."
+#      Biosci. Rep. 7:907-916(1987).
+#      PubMed=3331120
+# 
+# ***************
+# 
+#
+#---------------------------------------
+
+# Resultados para el ORF: >KR710372.1_4 Synthetic construct Homo sapiens clone CCSBHm_00011982 FHL1 (FHL1) mRNA, encodes complete protein
+########################################
+# Program: patmatmotifs
+# Rundate: Tue 29 Oct 2024 12:07:14
+# Commandline: patmatmotifs
+#    -sequence temp_orf.fasta
+#    -outfile temp_results.txt
+#    -full
+# Report_format: dbmotif
+# Report_file: temp_results.txt
+########################################
+
+#=======================================
+#
+# Sequence: KR710372.1_4     from: 1   to: 60
+# HitCount: 1
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: ./prosite/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 3
+Start = position 58 of sequence
+End = position 60 of sequence
+
+Motif = MICROBODIES_CTER
+
+GSSSRARI
+     | |
+    58 60
+
+
+#---------------------------------------
+#
+# Motif: MICROBODIES_CTER
+# Count: 1
+# 
+# *******************************************
+# * Microbodies C-terminal targeting signal *
+# *******************************************
+# 
+# Microbodies are  a class of small, single membraned organelles to which belong
+# peroxisomes, glyoxysomes,  and  glycosomes. Microbody proteins are synthesized
+# on free polysomes and imported into the organelle post-translationally. Unlike
+# the import  of  proteins  into  mitochondria, chloroplasts or the ER/secretion
+# pathway, import  into  microbodies does not generally require the removal of a
+# presequence [1].  It  has  been  experimentally  shown  [2,3,4]  that, in some
+# peroxisomal proteins,  the  targeting  signal  (PTS) resides in the last three
+# amino acids  of  the  C-terminus.  This consensus sequence is known as 'S-K-L'
+# (Ser-Lys-Leu), although some variations are allowed in all three positions. As
+# the peroxisomal  targeting  signal  also  seems  to    be  recognized by other
+# microbodies, it  is now [1] known as the C-terminal microbody targeting signal
+# (CMTS).
+# 
+# It must  be noted that not all microbody proteins contain a CMTS; some seem to
+# contain an  internal  CMTS-like  sequence,  but  it  is not yet known if it is
+# active as such. Finally, a  few  proteins are  synthesized  with an N-terminal
+# presequence which is cleaved off during import.
+# 
+# Microbody proteins known or thought to contain a CMTS are listed below.
+# 
+#  - Mammalian D-amino acid oxidase.
+#  - Mammalian acyl-coenzyme A oxidase (but not the fungal enzymes).
+#  - Mammalian and yeast (S. cerevisiae) carnitine o-acetyltransferase.
+#  - Mammalian trifunctional fatty acid beta oxidation pathway enzyme.
+#  - Mammalian, insect, plants, and Aspergillus uricase.
+#  - Mammalian sterol carrier protein-2 high molecular form (SCP-X).
+#  - Mammalian long chain alpha-hydroxy acid oxidase.
+#  - Mammalian soluble epoxide hydrolase (sEH).
+#  - Firefly luciferase.
+#  - Plants glycolate oxidase.
+#  - Plants glyoxisomal isocitrate lyase.
+#  - Plants and fungal glyoxisomal malate synthase.
+#  - Trypanosoma glycosomal glucose-6-phosphate isomerase.
+#  - Trypanosoma glycosomal glyceraldehyde 3-phosphate dehydrogenase.
+#  - Yeast (H. polymorpha and Pichia pastoris) alcohol oxidase (AOX).
+#  - Yeast (H. polymorpha) dihydroxy-acetone synthase (DHAS).
+#  - Yeast (S. cerevisiae) catalase A.
+#  - Yeast (S. cerevisiae) citrate synthase.
+#  - Yeast (S. cerevisiae) peroxisomal malate dehydrogenase.
+#  - Yeast (C. boidinii) peroxisomal protein PMP20.
+#  - Yeast (C. tropicalis) hydratase-dehydrogenase-epimerase  (HDE)  from  fatty
+#    acid beta oxidation pathway.
+#  - Yeast (C. tropicalis) isocitrate lyase.
+#  - Aspergillus niger monoamine oxidase N.
+#  - Candida albicans vacuolar aspartic protease PRA1.
+# 
+# -Consensus pattern: [STAGCN]-[RKH]-[LIVMAFY]>
+# -Last update: November 1997 / Pattern and text revised.
+# 
+# [ 1] De Hoop M.J., Ab G.
+#      Biochem. J. 286:657-669(1992).
+# [ 2] Gould S.J., Keller G.-A., Subramani S.
+#      "Identification of peroxisomal targeting signals located at the
+#      carboxy terminus of four peroxisomal proteins."
+#      J. Cell Biol. 107:897-905(1988).
+#      PubMed=2901422
+# [ 3] Gould S.J., Keller G.-A., Hosken N., Wilkinson J., Subramani S.
+#      "A conserved tripeptide sorts proteins to peroxisomes."
+#      J. Cell Biol. 108:1657-1664(1989).
+#      PubMed=2654139
+# [ 4] Gould S.J., Keller G.-A., Schneider M., Howell S.H., Garrard L.J.,
+#      Goodman J.M., Distel B., Tabak H., Subramani S.
+#      "Peroxisomal protein import is conserved between yeast, plants,
+#      insects and mammals."
+#      EMBO J. 9:85-90(1990).
+#      PubMed=2104803
+# 
+# ***************
+# 
+#
+#---------------------------------------
+
+# Resultados para el ORF: >KR710372.1_5 Synthetic construct Homo sapiens clone CCSBHm_00011982 FHL1 (FHL1) mRNA, encodes complete protein
+########################################
+# Program: patmatmotifs
+# Rundate: Tue 29 Oct 2024 12:07:15
+# Commandline: patmatmotifs
+#    -sequence temp_orf.fasta
+#    -outfile temp_results.txt
+#    -full
+# Report_format: dbmotif
+# Report_file: temp_results.txt
+########################################
+
+#=======================================
+#
+# Sequence: KR710372.1_5     from: 1   to: 60
+# HitCount: 0
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: ./prosite/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------
+
+# Resultados para el ORF: >KR710372.1_6 Synthetic construct Homo sapiens clone CCSBHm_00011982 FHL1 (FHL1) mRNA, encodes complete protein
+########################################
+# Program: patmatmotifs
+# Rundate: Tue 29 Oct 2024 12:07:17
+# Commandline: patmatmotifs
+#    -sequence temp_orf.fasta
+#    -outfile temp_results.txt
+#    -full
+# Report_format: dbmotif
+# Report_file: temp_results.txt
+########################################
+
+#=======================================
+#
+# Sequence: KR710372.1_6     from: 1   to: 60
+# HitCount: 0
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: ./prosite/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------
