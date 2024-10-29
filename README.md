@@ -11,7 +11,7 @@ El archivo Ejercicio2.py es un script que realiza un BLAST de una secuencia y es
 El archivo Ejercicio3.py es un script que lee el csv del ejercicio anterior y prepara las secuencias de manera tal que se pueda subir un nuevo archivo a Clustal Omega y obtener el alineamiento múltiple. Dentro de ArchivosEj3 se encuentra el archivo fasta con las 10 secuencias sin alinear y el archivo de CO con las secuencias alineadas. 
 
 ## Ejercicio 4
-La carpeta Ejercicio4 contiene el archivo "Ejercicio4v2.sh" con el código en formato bash que resuelve el ejercicio. Además, se encuentran los resultados obtenidos: los 6 marcos de lectura y los motivos encontrados con transeq y patmatmotifs de EMBOSS respectivamente. 
+La carpeta ArchivosEj4 contiene el archivo "Ejercicio4v2.sh" con el código en formato bash que resuelve el ejercicio. Además, se encuentran los resultados obtenidos: los 6 marcos de lectura y los motivos encontrados con transeq y patmatmotifs de EMBOSS respectivamente. 
 
 ## Ejercicio 5
 El archivo Ejercicio5.py es un primer intento. El archivo Ej5_nuevo.py es el ejercicio final. En la carpeta ArchivosEj5 esta el transcripto, los parametros que se solicitan para buscar los primers, y los primers obtenidos como resultado.
