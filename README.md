@@ -1,5 +1,5 @@
 # Bioinformatica
-Trabajo práctico cuatrimestral grupal.
+Trabajo práctico cuatrimestral. Se decidió crear este repositorio para tener un control de los archivos y de los ejercicios que se fueron realizando. Además, también se utilizó [Jira](https://zarina-scalise.atlassian.net/jira/core/projects/BIOIN/board) para organizar los tiempos de trabajo y las tareas de cada integrante.  
 
 ## Ejercicio 1
 El archivo Ejercicio1.py contiene el script correspondiente a la lectura del archivo sequence.gb, su traducción a posibles secuencias de amino ácidos y su escritura en formato FASTA. Dentro de la carpeta ArchivosEj1 se encuentran los archivos resultantes para los seis marcos de lectura trabajados.
@@ -15,3 +15,5 @@ La carpeta ArchivosEj4 contiene el archivo "Ejercicio4v2.sh" con el código en f
 
 ## Ejercicio 5
 El archivo Ejercicio5.py es un primer intento. El archivo Ej5_nuevo.py es el ejercicio final. En la carpeta ArchivosEj5 esta el transcripto, los parametros que se solicitan para buscar los primers, y los primers obtenidos como resultado.
+
+<img src="https://github.com/user-attachments/assets/8cf94fb4-7ca3-4775-a02e-91a6e6965195" alt="ITBA" width="200">
