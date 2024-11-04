@@ -1,0 +1,98 @@
+LOCUS       KR710372                 972 bp    DNA     linear   SYN 01-JUN-2015
+DEFINITION  Synthetic construct Homo sapiens clone CCSBHm_00011982 FHL1 (FHL1)
+            mRNA, encodes complete protein.
+ACCESSION   KR710372
+VERSION     KR710372.1
+KEYWORDS    human mutation ORFeome; hmORFeome1.1; Gateway cloning system;
+            full-length ORF.
+SOURCE      synthetic construct
+  ORGANISM  synthetic construct
+            other sequences; artificial sequences.
+REFERENCE   1  (bases 1 to 972)
+  AUTHORS   Sahni,N., Yi,S., Taipale,M., Fuxman Bass,J.I.,
+            Coulombe-Huntington,J., Yang,F., Peng,J., Weile,J., Karras,G.I.,
+            Wang,Y., Kovacs,I.A., Kamburov,A., Krykbaeva,I., Lam,M.H.,
+            Tucker,G., Khurana,V., Sharma,A., Liu,Y.Y., Yachie,N., Zhong,Q.,
+            Shen,Y., Palagi,A., San-Miguel,A., Fan,C., Balcha,D., Dricot,A.,
+            Jordan,D.M., Walsh,J.M., Shah,A.A., Yang,X., Stoyanova,A.K.,
+            Leighton,A., Calderwood,M.A., Jacob,Y., Cusick,M.E.,
+            Salehi-Ashtiani,K., Whitesell,L.J., Sunyaev,S., Berger,B.,
+            Barabasi,A.L., Charloteaux,B., Hill,D.E., Hao,T., Roth,F.P.,
+            Xia,Y., Walhout,A.J., Lindquist,S. and Vidal,M.
+  TITLE     Widespread macromolecular interaction perturbations in human
+            genetic disorders
+  JOURNAL   Cell 161 (3), 647-660 (2015)
+   PUBMED   25910212
+REFERENCE   2  (bases 1 to 972)
+  AUTHORS   Sahni,N., Yi,S., Taipale,M., Fuxman Bass,J.I.,
+            Coulombe-Huntington,J., Yang,F., Peng,J., Weile,J., Karras,G.I.,
+            Wang,Y., Kovacs,I.A., Kamburov,A., Krykbaeva,I., Lam,M.H.,
+            Tucker,G., Khurana,V., Sharma,A., Liu,Y.-Y., Yachie,N., Zhong,Q.,
+            Shen,Y., Palagi,A., San-Miguel,A., Fan,C., Balcha,D., Dricot,A.,
+            Jordan,D.M., Walsh,J.M., Shah,A.A., Yang,X., Stoyanova,A.K.,
+            Leighton,A., Calderwood,M.A., Jacob,Y., Cusick,M.E.,
+            Salehi-Ashtiani,K., Whitesell,L.J., Sunyaev,S., Berger,B.,
+            Barabasi,A.-L., Charloteaux,B., Hill,D.E., Hao,T., Roth,F.P.,
+            Xia,Y., Walhout,A.J.M., Lindquist,S. and Vidal,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2015) Center for Cancer Systems Biology (CCSB),
+            Department of Cancer Biology, Dana-Farber Cancer Institute, 450
+            Brookline Avenue, Boston, MA 02215, USA
+COMMENT     For distribution information, please check CCSB website
+            (http://ccsb.dfci.harvard.edu/ and
+            http://horfdb.dfci.harvard.edu/).
+FEATURES             Location/Qualifiers
+     source          1..972
+                     /organism="synthetic construct"
+                     /mol_type="other DNA"
+                     /db_xref="taxon:32630"
+                     /clone="CCSBHm_00011982"
+                     /focus
+                     /note="vector:pDONR223; derived from parent clone GenBank
+                     accession: KJ891173"
+     source          66..905
+                     /organism="Homo sapiens"
+                     /mol_type="other DNA"
+                     /db_xref="taxon:9606"
+     gene            66..>905
+                     /gene="FHL1"
+                     /db_xref="GeneID:2273"
+     CDS             66..>905
+                     /gene="FHL1"
+                     /note="full-length ORF without stop codon"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="FHL1"
+                     /protein_id="AKI70754.1"
+                     /db_xref="GeneID:2273"
+                     /translation="MAEKFDCHYCRDPLQGKKYVQKDGHHCCLKCFDKFCANTCVECR
+                     KPIGADSKEVHYKNRFWHDTCFRCAKCLHPLANETFVAKDNKILCNKCTTREDSPKCK
+                     GCFKAIVAGDQNVEYKGTVWHKDCFTCSNCKQVIGTGSFFPKGEDFYCVTCHETKFAK
+                     HCVKCNKAITSGGITYQDQPWHADCFVCVTCSKKLAGQRFTAVEDQYYCVDCYKNFVA
+                     KKCAGWKNPITGFGKGSSVVAYEGQSWHDYCFHCKKCSVNLANKRFVFHQEQVYCPDC
+                     AKKL"
+     misc_difference 737
+                     /gene="FHL1"
+                     /note="compared to parent clone; results in C to W
+                     substitution"
+                     /replace="c"
+ORIGIN      
+        1 gttcgttgca acaaattgat gagcaatgct tttttataat gccaactttg tacaaaaaag
+       61 ttggcatggc ggagaagttt gactgccact actgcaggga tcccttgcag gggaagaagt
+      121 atgtgcaaaa ggatggccac cactgctgcc tgaaatgctt tgacaagttc tgtgccaaca
+      181 cctgtgtgga atgccgcaag cccatcggtg cggactccaa ggaggtgcac tataagaacc
+      241 gcttctggca tgacacctgc ttccgctgtg ccaagtgcct tcaccccttg gccaatgaga
+      301 cctttgtggc caaggacaac aagatcctgt gcaacaagtg caccactcgg gaggactccc
+      361 ccaagtgcaa ggggtgcttc aaggccattg tggcaggaga tcaaaacgtg gagtacaagg
+      421 ggaccgtctg gcacaaagac tgcttcacct gtagtaactg caagcaagtc atcgggactg
+      481 gaagcttctt ccctaaaggg gaggacttct actgcgtgac ttgccatgag accaagtttg
+      541 ccaagcattg cgtgaagtgc aacaaggcca tcacatctgg aggaatcact taccaggatc
+      601 agccctggca tgccgattgc tttgtgtgtg ttacctgctc taagaagctg gctgggcagc
+      661 gtttcaccgc tgtggaggac cagtattact gcgtggattg ctacaagaac tttgtggcca
+      721 agaagtgtgc tggatggaag aaccccatca ctgggtttgg taaaggctcc agtgtggtgg
+      781 cctatgaagg acaatcctgg cacgactact gcttccactg caaaaaatgc tccgtgaatc
+      841 tggccaacaa gcgctttgtt ttccaccagg agcaagtgta ttgtcccgac tgtgccaaaa
+      901 agctgtaccc aactttcttg tacaaagttg gcattataag aaagcattgc ttatcaattt
+      961 gttgcaacga ac
+//
+
